@@ -1,0 +1,17 @@
+{
+  "links": {
+    "home": "Accueil",
+    "about": "के बारे में",
+    "english": "Version Anglaise",
+    "french": "Version Française",
+    "hindi": "Hindi Version"
+  },
+  "home": {
+    "title": "Bienvenue",
+    "introduction": "आयुष्मान खुराना की फिल्म 'बाला' का दिलचस्प टीजर रिलीज, गंजे लुक में आए नजर."
+  },
+  "about": {
+    "title": "के बारे में",
+    "introduction": "यह पृष्ठ आपको अधिक जानकारी देने के लिए बना है"
+  }
+}
